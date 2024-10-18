@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "stm32f1xx.h": "c",
+        "oled_show.h": "c",
+        "w25q128.h": "c",
+        "delay.h": "c",
+        "xmemory": "c",
+        "xutility": "c"
+    }
+}
