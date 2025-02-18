@@ -1,2 +1,2 @@
 ### Description
-This update fixes a bug where the access control clock is powered off and lost
+This update fixes the bug where the RTC clock loses data after power loss.
